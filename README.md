@@ -1,9 +1,12 @@
-# Fabric Example Mod
+# Purdue Pete Mod
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## Functionality Plan
+Purdue Pete NPC
+  Capable of trading, simple dialogue (Protect Purdue Pledge) has 
+  Can be summoned with gold block, netherite block, and carved pumpkin
+  Protects user
+Items
+  Hammer crafted with iron and sticks
+  Helmet
+  Customizable Purdue Banner
+  
