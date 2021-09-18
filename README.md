@@ -1,12 +1,12 @@
 # Purdue Pete Mod
 
 ## Functionality Plan
-Purdue Pete NPC
-  Capable of trading, simple dialogue (Protect Purdue Pledge) has 
-  Can be summoned with gold block, netherite block, and carved pumpkin
-  Protects user
-Items
-  Hammer crafted with iron and sticks
-  Helmet
-  Customizable Purdue Banner
+Purdue Pete NPC\n
+  Capable of trading, simple dialogue (Protect Purdue Pledge) \n
+  Can be summoned with gold block, netherite block, and carved pumpkin \n
+  Protects user \n
+Items \n
+  Hammer crafted with iron and sticks \n
+  Helmet \n
+  Customizable Purdue Banner \n
   
