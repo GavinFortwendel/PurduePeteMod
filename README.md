@@ -8,4 +8,3 @@
 ### Items 
   Hammer crafted with iron and sticks | Helmet | Customizable Purdue Banner 
   
-### CHANGES
